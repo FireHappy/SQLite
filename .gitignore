@@ -1,0 +1,10 @@
+.vs
+Library
+obj
+Assembly-CSharp
+SQLite
+SQLite.CSharp.csproj
+SQLite.csproj
+SQLite.sln
+SQLite.userprefs
+SQLite.v12.suo
